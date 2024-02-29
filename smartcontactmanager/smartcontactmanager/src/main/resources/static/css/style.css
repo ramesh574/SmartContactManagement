@@ -124,7 +124,7 @@ input:focus {
 
 .sidebar a {
 	display: block;
-	width: 345px;
+	width: 245px;
 	padding: 10px 25px;
 	text-decoration: none;
 	color: white;
@@ -136,7 +136,7 @@ input:focus {
 
 .sidebar .divider {
 	height: .5px;
-	width: 345px;
+	width: 245px;
 	background: #241f31;
 	margin-top: 10px;
 }
